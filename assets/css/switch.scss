@@ -1,0 +1,32 @@
+.switch{
+    justify-content: space-around;
+    right: 30px;
+    display: flex;
+    padding-bottom: 5px;
+  }
+  
+  .login{
+    border-bottom: 1px solid #4cec8f;
+    background: -webkit-linear-gradient(bottom, #000000, #4cec8f);
+    -webkit-background-clip: text;
+            background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: 0.3s ease;
+  }
+  
+  .signup{
+    border-bottom: 1px solid #c6eb43;
+    background: -webkit-linear-gradient(bottom, #000000, #c6eb43);
+    -webkit-background-clip: text;
+            background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: 0.3s ease;
+    cursor: pointer;
+  
+  }
+  
