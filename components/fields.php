@@ -6,8 +6,6 @@
 		</div>
 
 		<div class="wrap-input validate-input">
-			<input class="input" type="password" name="pass" placeholder="Password">
+			<input class="input" type="password" name="pwd" placeholder="Password">
 			<span class="focus-input" data-placeholder="&#xf191;"></span>
 		</div>
-	
-
